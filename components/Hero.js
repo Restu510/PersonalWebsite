@@ -21,7 +21,7 @@ function Hero() {
                     <div className="md:w-1/2 mt-10 md:mt-0">
                         <img 
                             data-name="hero-image"
-                            src="https://via.placeholder.com/400x400" 
+                            src="https://pbs.twimg.com/profile_images/1858656005103484928/-mrntALz_400x400.jpg" 
                             alt="John Doe" 
                             className="rounded-full w-64 h-64 md:w-80 md:h-80 object-cover mx-auto border-4 border-white shadow-lg fade-in"
                         />

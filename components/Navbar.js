@@ -5,7 +5,7 @@ function Navbar() {
         <nav data-name="navbar" className="fixed w-full bg-white shadow-md z-50">
             <div className="max-w-7xl mx-auto px-4">
                 <div className="flex justify-between items-center h-16">
-                    <a href="#" data-name="nav-logo" className="text-xl font-bold text-gray-800">John Doe</a>
+                    <a href="#" data-name="nav-logo" className="text-xl font-bold text-gray-800">Restu Cipta Hadi Kusuma</a>
                     
                     <div className="hidden md:flex space-x-8">
                         <a href="#about" data-name="nav-about" className="text-gray-600 hover:text-gray-900">About</a>

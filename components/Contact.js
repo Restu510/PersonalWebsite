@@ -29,14 +29,14 @@ function Contact() {
     return (
         <section id="contact" data-name="contact-section" className="section bg-gray-50">
             <div className="max-w-4xl mx-auto">
-                <h2 data-name="contact-title" className="text-3xl font-bold text-center mb-12">Get In Touch</h2>
+                <h2 data-name="contact-title" className="text-3xl font-bold text-center mb-12">Kirim Pesan</h2>
                 
                 <div className="grid md:grid-cols-2 gap-12">
                     <div data-name="contact-info" className="slide-up">
-                        <h3 className="text-xl font-semibold mb-6">Let's Connect</h3>
+                        <h3 className="text-xl font-semibold mb-6">Ayo Terhubung!!</h3>
                         <p className="text-gray-600 mb-8">
-                            I'm always open to new opportunities and interesting projects. 
-                            Feel free to reach out!
+                            Saya selalu terbuka terhadap peluang baru dan proyek menarik. 
+                            Jangan ragu untuk menghubungi saya!
                         </p>
                         
                         <div className="space-y-4">

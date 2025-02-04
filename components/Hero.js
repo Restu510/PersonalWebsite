@@ -5,17 +5,17 @@ function Hero() {
                 <div className="flex flex-col md:flex-row items-center">
                     <div className="md:w-1/2 fade-in">
                         <h1 data-name="hero-title" className="text-4xl md:text-6xl font-bold mb-4">
-                            John Doe
+                            Restu Cipta Hadi Kusuma
                         </h1>
                         <p data-name="hero-tagline" className="text-xl md:text-2xl mb-8">
-                            Full Stack Developer & UI/UX Enthusiast
+                            Mahasiswa Manajemen Informatika
                         </p>
                         <a 
                             href="#contact" 
                             data-name="hero-cta"
                             className="bg-white text-indigo-600 px-8 py-3 rounded-full font-semibold hover:bg-opacity-90 transition duration-300"
                         >
-                            Get in Touch
+                            Kirim Pesan
                         </a>
                     </div>
                     <div className="md:w-1/2 mt-10 md:mt-0">

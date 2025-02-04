@@ -13,16 +13,16 @@ function About() {
                     <div data-name="about-content" className="slide-up">
                         <h3 className="text-xl font-semibold mb-4">Background</h3>
                         <p className="text-gray-600 mb-6">
-                            I'm a final year Computer Science student passionate about creating innovative web solutions. 
-                            With a strong foundation in both frontend and backend development, I love turning complex 
-                            problems into simple, beautiful solutions.
+                           Saya adalah mahasiswa tingkat akhir Manajemen Informatika yang memiliki passion dalam menciptakan solusi digital inovatif dan efisien. Dengan pemahaman yang kuat di bidang pengembangan perangkat lunak dan manajemen sistem, saya senang mengubah ide-ide kompleks menjadi aplikasi yang fungsional dan berdampak nyata. Setiap tantangan dalam teknologi adalah peluang untuk belajar dan berkembang, dan saya selalu bersemangat untuk mengeksplorasi hal-hal baru dalam dunia IT.
                         </p>
-                        
+                        <p className="text-gray-600 mb-6">
+                            Selain mengembangkan perangkat lunak, saya juga tertarik pada desain sistem yang intuitif dan pengalaman pengguna yang optimal. Saya percaya bahwa teknologi bukan hanya tentang kode, tetapi juga tentang bagaimana solusi yang diciptakan dapat memberikan manfaat bagi banyak orang. Dengan kombinasi kreativitas dan logika, saya ingin terus berkontribusi dalam menciptakan inovasi yang membawa perubahan positif di berbagai aspek kehidupan.
+                        </p>
                         <h3 className="text-xl font-semibold mb-4">Education</h3>
                         <p className="text-gray-600">
-                            BSc in Computer Science<br />
-                            University of Technology<br />
-                            Expected Graduation: 2024
+                            YPI SMA Tunas Bangsa Palembang<br />
+                            Politeknik Negeri Sriwijaya<br />
+                            Ekspetasi Kelulusan: 2026
                         </p>
                     </div>
 

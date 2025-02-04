@@ -1,6 +1,6 @@
 function Hero() {
     return (
-        <section data-name="hero-section" className="hero-gradient min-h-screen flex items-center text-white">
+        <section data-name="hero-section" className="bg-gradient-to-b from-black to-red-900 min-h-screen flex items-center text-white">
             <div className="container mx-auto px-6 py-20 md:py-40">
                 <div className="flex flex-col md:flex-row items-center">
                     <div className="md:w-1/2 fade-in">
